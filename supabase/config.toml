@@ -1,0 +1,5 @@
+[functions.eporner-proxy]
+verify_jwt = false
+
+[functions.translate]
+verify_jwt = false
